@@ -13,6 +13,7 @@
     </pre>
     <pre align="center">
 > SYSTEM BOOT SEQUENCE INITIATED
+      
 </pre>
   </div>
 </details>
