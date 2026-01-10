@@ -18,10 +18,10 @@
   </tr>
 </table>
 
-  <pre align="center">
+  <!-- <pre align="center">
     
     > SYSTEM BOOT SEQUENCE INITIATED
-  </pre>
+  </pre> -->
 
 
 </details> 
