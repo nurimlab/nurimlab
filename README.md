@@ -72,6 +72,6 @@
 
 
 <picture>
-  <!-- <source media="(max-width: 640px)" srcset="./assets/intro/CRT_intro_mobile_v2.svg" /> -->
-  <img src="./assets/legacy/CRT_profile_final.svg" width="100%"/>
+  <source media="(max-width: 640px)" srcset="./assets/main/CRT_main_mobile.svg" />
+  <img src="./assets/main/CRT_main.svg" width="100%"/>
 </picture>
