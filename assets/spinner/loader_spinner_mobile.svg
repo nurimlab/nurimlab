@@ -1,0 +1,35 @@
+<!-- loader_spinner_mobile_small.svg -->
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="20" height="20"
+     viewBox="0 0 48 48"
+     preserveAspectRatio="xMidYMid meet"
+     shape-rendering="geometricPrecision">
+
+  <defs>
+    <style>
+      .ring {
+        fill: none;
+        stroke: #00FF41;
+        stroke-width: 3;
+        stroke-linecap: round;
+        vector-effect: non-scaling-stroke;
+      }
+    </style>
+  </defs>
+
+  <!-- 전체를 위로 1px 보정 (텍스트와 수평 정렬) -->
+  <g transform="translate(0,-1)">
+    <!-- 연한 배경 링 -->
+    <circle class="ring" cx="24" cy="24" r="18" opacity="0.22"/>
+
+    <!-- 회전하는 호 -->
+    <g transform="rotate(0 24 24)">
+      <path class="ring"
+            d="M 24 6
+               A 18 18 0 0 1 42 24" />
+      <animateTransform attributeName="transform" type="rotate"
+                        from="0 24 24" to="360 24 24"
+                        dur="0.9s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
