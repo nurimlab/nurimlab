@@ -18,6 +18,13 @@
   </tr>
 </table>
 
+<picture>
+  <!-- 모바일에서만 로드 -->
+  <source media="(max-width: 640px)" srcset="./assets/hello_world.svg" />
+  <!-- 데스크탑에서는 숨김용 더미 -->
+  <img src="" alt="" style="display:none;" />
+</picture>
+
 
 </details> 
 
