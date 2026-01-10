@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="360" viewBox="0 0 1600 360" role="img" aria-label="HELLO WORLD banner">
+  <rect width="100%" height="100%" fill="transparent"/>
+
+  <g
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+    font-size="32"
+    fill="#00FF41"
+  >
+    <!-- baseline 문제 방지 -->
+    <text x="50%" y="40" text-anchor="middle" dominant-baseline="hanging" xml:space="preserve">██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗</text>
+    <text x="50%" y="80" text-anchor="middle" dominant-baseline="hanging" xml:space="preserve">██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗</text>
+    <text x="50%" y="120" text-anchor="middle" dominant-baseline="hanging" xml:space="preserve">███████║█████╗  ██║     ██║     ██║   ██║    ██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║</text>
+    <text x="50%" y="160" text-anchor="middle" dominant-baseline="hanging" xml:space="preserve">██╔══██║██╔══╝  ██║     ██║     ██║   ██║    ██║███╗██║██║   ██║██╔══██╗██║     ██║  ██║</text>
+    <text x="50%" y="200" text-anchor="middle" dominant-baseline="hanging" xml:space="preserve">██║  ██║███████╗███████╗███████╗╚██████╔╝    ╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝</text>
+
+    <!-- 콤마/느낌표는 웹에서 폰트 폴백을 터뜨릴 때가 있어서, 전각으로 바꿈 -->
+    <text x="50%" y="240" text-anchor="middle" dominant-baseline="hanging" xml:space="preserve">╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ，   ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ ！</text>
+
+    <text x="50%" y="305" text-anchor="middle" dominant-baseline="hanging" font-size="26" xml:space="preserve">&gt; SYSTEM BOOT SEQUENCE INITIATED</text>
+  </g>
+</svg>
