@@ -1,11 +1,12 @@
-<!-- <details>
-  <summary><code>&gt; HELLO_WORLD</code></summary> -->
+<details>
+  <summary><code>&gt; HELLO_WORLD</code></summary> 
 
 
 <table align="center">
   <tr>
     <td>
       <pre>
+        
 ██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗
 ██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗
 ███████║█████╗  ██║     ██║     ██║   ██║    ██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║
@@ -17,9 +18,20 @@
   </tr>
 </table>
 
-<div align="center">
+  <pre align="center">
+    
+    > SYSTEM BOOT SEQUENCE INITIATED
+  </pre>
 
-  <pre>
+
+</details> 
+
+
+
+<!-- <div>
+
+  <pre align="center">
+    
 ██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ 
 ██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗
 ███████║█████╗  ██║     ██║     ██║   ██║    ██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║
@@ -32,7 +44,7 @@
     > SYSTEM BOOT SEQUENCE INITIATED
   </pre>
 
-</div> 
+</div>  -->
 
 <!-- </details> -->
 
