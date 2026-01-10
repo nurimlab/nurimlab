@@ -18,56 +18,14 @@
   </tr>
 </table>
 
-  <!-- <pre align="center">
-    
-    > SYSTEM BOOT SEQUENCE INITIATED
-  </pre> -->
-
 
 </details> 
 
 
 
-<!-- <div>
+<details>
 
-  <pre align="center">
-    
-██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ 
-██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗
-███████║█████╗  ██║     ██║     ██║   ██║    ██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║
-██╔══██║██╔══╝  ██║     ██║     ██║   ██║    ██║███╗██║██║   ██║██╔══██╗██║     ██║  ██║
-██║  ██║███████╗███████╗███████╗╚██████╔╝    ╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝
-╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝      ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝  
-  </pre>
-
-  <pre align="center">
-    > SYSTEM BOOT SEQUENCE INITIATED
-  </pre>
-
-</div>  -->
-
-<!-- </details> -->
-
-
-
-<!-- <details>
-  <summary><code>&gt; HELLO_WORLD (BOOT BANNER)</code></summary>
-
-  <br>
-  <div align="center">
-    <pre>
-██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ 
-██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗
-███████║█████╗  ██║     ██║     ██║   ██║    ██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║
-██╔══██║██╔══╝  ██║     ██║     ██║   ██║    ██║███╗██║██║   ██║██╔══██╗██║     ██║  ██║
-██║  ██║███████╗███████╗███████╗╚██████╔╝    ╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝
-╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝  ,   ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝  !
-    </pre>
-    <pre align="center">
-> SYSTEM BOOT SEQUENCE INITIATED
-</pre>
-  </div>
-</details> -->
+<summary><code>&gt; PROFILE</code></summary>
 
 <p align="center">
   <img src="https://dummyimage.com/1600x3/00FF41/00FF41.png" />
@@ -104,3 +62,4 @@
   <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=1800&pause=2200&color=00FF41&center=true&vCenter=true&width=500&height=40&lines=%5B+INITIALIZING+NEXT+BOOT...+%5D" />
 </p>
 
+</details>
