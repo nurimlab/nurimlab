@@ -1,0 +1,26 @@
+<!-- loader_spinner.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48"
+     viewBox="0 0 48 48" preserveAspectRatio="xMidYMid meet"
+     shape-rendering="geometricPrecision">
+  <defs>
+    <style>
+      .ring { fill: none; stroke: #00FF41; stroke-width: 4;
+              stroke-linecap: round; vector-effect: non-scaling-stroke; }
+    </style>
+  </defs>
+
+  <!-- 연한 배경 링 -->
+  <circle class="ring" cx="24" cy="24" r="18" opacity="0.25"/>
+
+  <!-- 회전 그룹: 짧은 호(path)만 사용 -->
+  <g transform="rotate(0 24 24)">
+    <!-- 90도짜리 호 (필요하면 각도 조절 가능) -->
+    <path class="ring"
+          d="M 24 6
+             A 18 18 0 0 1 42 24"
+    />
+    <animateTransform attributeName="transform" type="rotate"
+                      from="0 24 24" to="360 24 24"
+                      dur="0.9s" repeatCount="indefinite"/>
+  </g>
+</svg>
