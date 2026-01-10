@@ -68,3 +68,10 @@
 </pre>
   </div>
 </details> -->
+
+
+
+<picture>
+  <!-- <source media="(max-width: 640px)" srcset="./assets/intro/CRT_intro_mobile_v2.svg" /> -->
+  <img src="./assets/legacy/CRT_profile_final.svg" width="100%"/>
+</picture>
