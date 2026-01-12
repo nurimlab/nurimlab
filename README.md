@@ -78,12 +78,7 @@
 
 
 <p align="center">
-  [ 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=30&pause=800&color=00FF41&center=true&vCenter=true&width=360&height=40&lines=INITIALIZING+NEXT+BOOT...;1NITIALIZING+NEXT+BOOT...;INIT1ALIZING+NEXT+BOOT...;INITIALIZ1NG+NEXT+BOOT...;INITIALIZING+N3XT+BOOT...;INITIALIZING+NEXT+B00T...;INITIALIZING+NEXT+BOOT._.;INITIALIZING+NEXT+BOOT..."
-    alt="INITIALIZING NEXT BOOT"
-  />
-  ]
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=30&pause=800&color=00FF41&center=true&vCenter=true&width=420&height=40&lines=%5B+INITIALIZING+NEXT+BOOT...+%5D;%5B+1NITIALIZING+NEXT+BOOT...+%5D;%5B+INIT1ALIZING+NEXT+BOOT...+%5D;%5B+INITIALIZ1NG+NEXT+BOOT...+%5D;%5B+INITIALIZING+N3XT+BOOT...+%5D;%5B+INITIALIZING+NEXT+B00T...+%5D;%5B+INITIALIZING+NEXT+BOOT._.+%5D;%5B+INITIALIZING+NEXT+BOOT...+%5D" />
 </p>
 
 
