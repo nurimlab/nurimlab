@@ -46,9 +46,10 @@
 
 
 
- <p align="center">
+<p align="center">
   <img src="https://dummyimage.com/2000x4/00FF41/00FF41.png" />
 </p>
+
 <br/>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=25&duration=500&pause=1400&color=00FF41&center=true&vCenter=true&width=460&height=40&lines=%3E+SHUTDOWN+SEQUENCE+COMPLETE;%3E+SEE+YOU+NEXT+DEPLOY" />
