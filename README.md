@@ -67,21 +67,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=50&pause=900&color=00FF41&center=true&vCenter=true&width=420&height=40&lines=%5B+INITIALIZING+NEXT+BOOT...+%5D;%5B+1NITIALIZING+NEXT+BOOT...+%5D;%5B+INIT1ALIZING+NEXT+BOOT...+%5D;%5B+INITIALIZ1NG+NEXT+BOOT...+%5D;%5B+INITIALIZING+N3XT+BOOT...+%5D;%5B+INITIALIZING+NEXT+B00T...+%5D;%5B+INITIALIZING+NEXT+BOOT.._+%5D;%5B+INITIALIZING+NEXT+BOOT...+%5D" />
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=35&pause=250&color=00FF41&center=true&vCenter=true&width=430&height=40&lines=%5B+INITIALIZING+NEXT+BOOT...+%5D;%5B+1NITIALIZING+NEXT+BOOT...+%5D;%5B+INIT1ALIZING+NEXT+BOOT...+%5D;%5B+INITIALIZ1NG+NEXT+BOOT...+%5D;%5B+INITIALIZING+N3XT+BOOT...+%5D;%5B+INITIALIZING+NEXT+B00T...+%5D;%5B+INITIALIZING+NEXT+BOOT.._+%5D;%5B+INITIALIZING+NEXT+BOOT...+%5D" />
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=30&pause=800&color=00FF41&center=true&vCenter=true&width=420&height=40&lines=%5B+INITIALIZING+NEXT+BOOT...+%5D;%5B+1NITIALIZING+NEXT+BOOT...+%5D;%5B+INIT1ALIZING+NEXT+BOOT...+%5D;%5B+INITIALIZ1NG+NEXT+BOOT...+%5D;%5B+INITIALIZING+N3XT+BOOT...+%5D;%5B+INITIALIZING+NEXT+B00T...+%5D;%5B+INITIALIZING+NEXT+BOOT._.+%5D;%5B+INITIALIZING+NEXT+BOOT...+%5D" />
-</p>
-
-
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=1800&pause=2200&color=00FF41&center=true&vCenter=true&width=500&height=40&lines=%5B+INITIALIZING+NEXT+BOOT...+%5D" />
 </p> -->
