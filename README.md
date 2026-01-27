@@ -71,10 +71,10 @@
 </p>
 
 
+
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=1800&pause=2200&color=00FF41&center=true&vCenter=true&width=500&height=40&lines=%5B+INITIALIZING+NEXT+BOOT...+%5D" />
 </p> -->
-
 
 
 </details>
