@@ -5,7 +5,6 @@
 <details>
   <summary><code>&gt; HELLO_WORLD</code></summary> 
 
-
 <table align="center">
   <tr>
     <td>
