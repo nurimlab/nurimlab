@@ -35,7 +35,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=25&duration=80&pause=900&color=00FF41&center=true&vCenter=true&width=520&height=36&lines=%3E+INITIALIZING+SYSTEM...;%3E+HELLO_WORLD;%3E+ACCESS+GRANTED;%3E+WELCOME" />
 </p>
 
-
 <p align="center">
   <img src="https://dummyimage.com/1600x3/00FF41/00FF41.png" />
 </p>
@@ -56,6 +55,11 @@
 <p align="center">
   <img src="https://dummyimage.com/2000x4/00FF41/00FF41.png" />
 </p>
+
+<<<<<<< HEAD
+</br>
+
+=======
 
 </br>
 
