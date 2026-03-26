@@ -1,5 +1,5 @@
 ```md
-> SYSTEM_NOTE: "상상은 누릴 수 있는 경험이다"
+> SYSTEM_NOTE: "상상을 경험으로 누리는 공간"
 ```
 
 <details>
